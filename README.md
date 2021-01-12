@@ -38,7 +38,6 @@ _December 2018 - Present_
 
 ## Experience
 <img src = "raine.png">
-<br>
 **The Raine Group** - New York, NY
 <br>
 Summer Analyst
