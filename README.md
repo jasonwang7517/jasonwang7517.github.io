@@ -1,3 +1,4 @@
+<img src = "Headshot.png">
 # My Resume
 <a href="Resume - Jason Wang.pdf" download = "Resume of Jason Wang.pdf">
   Resume in PDF format
