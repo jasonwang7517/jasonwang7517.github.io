@@ -35,6 +35,28 @@ _December 2018 - Present_
 - **Programming Languages:** Java, Python, SQL, Racket, HTML, CSS
 - **Other Technical Skills:** Eclipse, PyCharm, Git, Windows, Microsoft Office
 
+## Experience
+**The Raine Group** - New York, NY
+<br>
+Summer Analyst
+<br>
+_June 2020 - August 2020_
+- Completed two independent research projects on the current state of the augmented/virtual reality industries and the effects of COVID-19 on the exhibitor industry to help identify potential investment and advisory opportunities for the firm
+- Helped draft the initial investment committee memo for a proposed $100mm PIPE in an advertising technology company 
+-	Prepared discussion materials for miscellaneous research projects and potential investment opportunities across several technology, media, and telecommunications subsectors, including artificial intelligence and autonomous vehicles
+
+**The Raine Group** - New York, NY
+<br>
+Summer Analyst
+<br>
+_June 2020 - August 2020_
+- Completed two independent research projects on the current state of the augmented/virtual reality industries and the effects of COVID-19 on the exhibitor industry to help identify potential investment and advisory opportunities for the firm
+- Helped draft the initial investment committee memo for a proposed $100mm PIPE in an advertising technology company 
+-	Prepared discussion materials for miscellaneous research projects and potential investment opportunities across several technology, media, and telecommunications subsectors, including artificial intelligence and autonomous vehicles
+
+
+ 
+
 
 You can use the [editor on GitHub](https://github.com/jasonwang7517/jasonwang7517.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
