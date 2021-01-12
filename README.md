@@ -1,4 +1,4 @@
-## [Resume in PDF format] (https://github.com/jasonwang7517/jasonwang7517.github.io/blob/main/Resume%20-%20Jason%20Wang.pdf)
+## [Resume in PDF format](https://github.com/jasonwang7517/jasonwang7517.github.io/blob/main/Resume%20-%20Jason%20Wang.pdf)
 
 You can use the [editor on GitHub](https://github.com/jasonwang7517/jasonwang7517.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
