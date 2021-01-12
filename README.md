@@ -37,6 +37,8 @@ _December 2018 - Present_
 - **Other Technical Skills:** Eclipse, PyCharm, Git, Windows, Microsoft Office
 
 ## Experience
+<img src = "raine.png">
+<br>
 **The Raine Group** - New York, NY
 <br>
 Summer Analyst
