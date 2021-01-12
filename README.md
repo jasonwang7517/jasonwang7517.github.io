@@ -45,7 +45,6 @@ _June 2020 - August 2020_
 - Helped draft the initial investment committee memo for a proposed $100mm PIPE in an advertising technology company 
 -	Prepared discussion materials for miscellaneous research projects and potential investment opportunities across several technology, media, and telecommunications subsectors, including artificial intelligence and autonomous vehicles
 
-<br>
 **Luddy School of Informatics, Computing, & Engineering** - Bloomington, IN
 <br>
 Peer Technical Advisor
@@ -55,7 +54,6 @@ _August 2019 - Present_
 -	Acted as a first point of contact for companies and facilitated the scheduling of on-campus interviews  
 -	Created video guides for popular LeetCode questions spanning a variety of topics form arrays to linked lists
 
-<br>
 **84.51°** - Cincinnati, OH
 <br>
 Data Science Intern
@@ -65,7 +63,6 @@ _August 2019 - Present_
 -	Utilized SQL and R to cleanse and visualize Kroger’s database of transactions and customers
 -	Assisted the Communications and Media data science team with miscellaneous project work including cleansing data tables, producing visualizations to highlight key performance metrics, and providing insight on current trends
 
-<br>
 ## Projects
 <br>
 **Limit Heads-Up Texas Hold 'Em Bots** - Artificial Intelligence Final Project
@@ -76,7 +73,6 @@ _Python, PyCharm, PyPokerEngine_
 -	Utilized a Monte Carlo simulation, a raise first-in heuristic, and a dynamic Bayesian network for each bot’s strategy 
 -	Wrote three different betting algorithms: an honest algorithm, a Gaussian Mixture Model-Based Algorithm, and a Game Theory Optimal style algorithm to see which strategy was most effective against human players
 
-<br>
 **GitAJob** - Software Engineering Final Project
 <br>
 _Python, React, Stream, Heroku_
