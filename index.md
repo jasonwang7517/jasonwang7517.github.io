@@ -1,6 +1,7 @@
 <center>
   <img src = "res/Headshot.png" class= "center">
 </center>
+
 # My Resume
 <a href="Resume - Jason Wang.pdf" download = "Resume of Jason Wang.pdf">
   Resume in PDF format
@@ -9,21 +10,17 @@
 <br>
 ## Education & Honors
 <br>
-**Indiana University, Luddy School of Informatics, Computing and Engineering** - Bloomington, IN
+**Indiana University** - Bloomington, IN
 <br>
 _Bachelor of Science in Computer Science_ 
 <br>
 **Major**: Computer Science | **Specialization**: Data Science
 <br>
-**GPA**: 3.71/4.00
-<br>
-<br>
-**Indiana University, Kelley School of Business** - Bloomington, IN
-<br>
 _Bachelor of Science in Business_ 
 <br>
 **Major**: Finance | **Specialization**: Data Science
 <br>
+**GPA**: 3.71/4.00
 <br>
 **Board of Aeons** - Bloomington, IN
 <br>
