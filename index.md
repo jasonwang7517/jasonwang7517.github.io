@@ -6,7 +6,6 @@
 <a href = "Resume - Jason Wang.pdf" download = "Resume of Jason Wang.pdf">Resume in PDF format</a>
 <br>
 ## Education & Honors
-<br>
 **Indiana University** - Bloomington, IN
 <br>
 _Bachelor of Science in Computer Science_ 
@@ -18,6 +17,7 @@ _Bachelor of Science in Business_
 **Major**: Finance | **Specialization**: Data Science
 <br>
 **GPA**: 3.71/4.00
+<br>
 <br>
 **Board of Aeons** - Bloomington, IN
 <br>
