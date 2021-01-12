@@ -6,6 +6,7 @@
 
 ## Education & Honors
 <img src = "luddy.jpg" width = "400">
+<br>
 **Indiana University, Luddy School of Informatics, Computing and Engineering** - Bloomington, IN
 <br>
 _Bachelor of Science in Computer Science_ 
