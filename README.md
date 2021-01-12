@@ -12,14 +12,17 @@ _Bachelor of Science in Computer Science_
 <br>
 **GPA**: 3.71/4.00
 <br>
+<br>
 **Indiana University, Kelley School of Business** - Bloomington, IN
 <br>
 _Bachelor of Science in Business_ 
 <br>
 **Major**: Finance | **Specialization**: Data Science
 <br>
+<br>
 **Board of Aeons** - Bloomington, IN
 - One of twelve Indiana University students selected to serve as direct advisors to the President of the University on matters such as the costs of attendance, student safety initiatives, and diversity and inclusion
+<br>
 <br>
 **Investment Banking Workshop** - Bloomington, IN
 - Faculty-selected to participate in programs designed to prepare students for highly analytical careers in finance 
