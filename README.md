@@ -1,5 +1,5 @@
 ## My Resume
-<a href="https://github.com/jasonwang7517/jasonwang7517.github.io/blob/main/Resume%20-%20Jason%20Wang.pdf" download = "Resume of Jason Wang">
+<a href="https://github.com/jasonwang7517/jasonwang7517.github.io/blob/main/Resume%20-%20Jason%20Wang.pdf" download = "Resume of Jason Wang.pdf">
   Resume in PDF format
 </a>
 
