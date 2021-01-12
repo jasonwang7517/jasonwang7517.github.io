@@ -1,7 +1,11 @@
-## My Resume
+# My Resume
 <a href="Resume - Jason Wang.pdf" download = "Resume of Jason Wang.pdf">
   Resume in PDF format
 </a>
+
+## Education & Honors
+**Indiana University, School of Informatics, Computing and Engineering** - Bloomington, IN
+_Bachelor of Science in Computer Science_ | **Major**: Computer Science | **Specialization**: Data Science
 
 You can use the [editor on GitHub](https://github.com/jasonwang7517/jasonwang7517.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
