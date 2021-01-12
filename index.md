@@ -3,10 +3,7 @@
 </center>
 
 # My Resume
-<a href="Resume - Jason Wang.pdf" download = "Resume of Jason Wang.pdf">
-  Resume in PDF format
-</a>
-<br>
+<a href = "Resume - Jason Wang.pdf" download = "Resume of Jason Wang.pdf">Resume in PDF format</a>
 <br>
 ## Education & Honors
 <br>
