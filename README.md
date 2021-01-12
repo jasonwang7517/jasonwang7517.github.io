@@ -1,11 +1,11 @@
-<img src = "Headshot.png" class= "center">
+<img src = "res/Headshot.png" class= "center">
 # My Resume
 <a href="Resume - Jason Wang.pdf" download = "Resume of Jason Wang.pdf">
   Resume in PDF format
 </a>
 
 ## Education & Honors
-<img src = "luddy.jpg" width = "400">
+<img src = "res/luddy.jpg" width = "400">
 <br>
 **Indiana University, Luddy School of Informatics, Computing and Engineering** - Bloomington, IN
 <br>
@@ -39,7 +39,7 @@ _December 2018 - Present_
 - **Other Technical Skills:** Eclipse, PyCharm, Git, Windows, Microsoft Office
 
 ## Experience
-<img src = "raine.png">
+<img src = "res/raine.png">
 **The Raine Group** - New York, NY
 <br>
 Summer Analyst
