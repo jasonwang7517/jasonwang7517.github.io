@@ -44,52 +44,40 @@ _June 2020 - August 2020_
 - Completed two independent research projects on the current state of the augmented/virtual reality industries and the effects of COVID-19 on the exhibitor industry to help identify potential investment and advisory opportunities for the firm
 - Helped draft the initial investment committee memo for a proposed $100mm PIPE in an advertising technology company 
 -	Prepared discussion materials for miscellaneous research projects and potential investment opportunities across several technology, media, and telecommunications subsectors, including artificial intelligence and autonomous vehicles
-
-**The Raine Group** - New York, NY
 <br>
-Summer Analyst
+**Luddy School of Informatics, Computing, & Engineering** - Bloomington, IN
 <br>
-_June 2020 - August 2020_
-- Completed two independent research projects on the current state of the augmented/virtual reality industries and the effects of COVID-19 on the exhibitor industry to help identify potential investment and advisory opportunities for the firm
-- Helped draft the initial investment committee memo for a proposed $100mm PIPE in an advertising technology company 
--	Prepared discussion materials for miscellaneous research projects and potential investment opportunities across several technology, media, and telecommunications subsectors, including artificial intelligence and autonomous vehicles
-
-
- 
-
-
-You can use the [editor on GitHub](https://github.com/jasonwang7517/jasonwang7517.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jasonwang7517/jasonwang7517.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Peer Technical Advisor
+<br>
+_August 2019 - Present_
+-	Conducted scheduled and drop-in career advising appointments for students preparing for internship and full-time recruitment 
+-	Acted as a first point of contact for companies and facilitated the scheduling of on-campus interviews  
+-	Created video guides for popular LeetCode questions spanning a variety of topics form arrays to linked lists
+<br>
+**84.51°** - Cincinnati, OH
+<br>
+Data Science Intern
+<br>
+_August 2019 - Present_
+-	Built a complete view of Kroger’s private label customer communication strategy to evaluate the effectiveness of the company’s current individualized marketing efforts and to find ways to increase new and loyal customer engagement
+-	Utilized SQL and R to cleanse and visualize Kroger’s database of transactions and customers
+-	Assisted the Communications and Media data science team with miscellaneous project work including cleansing data tables, producing visualizations to highlight key performance metrics, and providing insight on current trends
+<br>
+## Projects
+<br>
+**Limit Heads-Up Texas Hold 'Em Bots** - Artificial Intelligence Final Project
+<br>
+_Python, PyCharm, PyPokerEngine_
+-	Constructed three poker bots, each utilizing different strategies to maximize success when playing limit heads-up Texas Hold ‘Em
+-	Used PyPokerEngine, to develop bots capable of performing basic poker actions, such as calling, raising, and folding
+-	Utilized a Monte Carlo simulation, a raise first-in heuristic, and a dynamic Bayesian network for each bot’s strategy 
+-	Wrote three different betting algorithms: an honest algorithm, a Gaussian Mixture Model-Based Algorithm, and a Game Theory Optimal style algorithm to see which strategy was most effective against human players
+<br>
+**GitAJob** - Software Engineering Final Project
+<br>
+_Python, React, Stream, Heroku_
+-	Worked with a team of three other students to develop a career search platform similar to LinkedIn or Indeed that allowed recruiters to post various job listings for their respective companies and job seekers to quickly apply by attaching their profile
+-	Adhered to an agile methodology that required milestones to be completed and delivered at the end of every two-week sprint
+-	Assembled parts of both the front-end and back-end code depending on the needs of each development sprint
+-	Built a chat feature using the Stream chat API that allowed job recruiters to directly contact job seekers 
+-	Implemented a search feature that would allow users to search for specific job listings based on a number of characteristics including company name, job title, description, recommended skills, and other tags 
