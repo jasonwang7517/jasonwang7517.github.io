@@ -53,6 +53,14 @@ _August 2019 - Present_
 -	Acted as a first point of contact for companies and facilitated the scheduling of on-campus interviews  
 -	Created video guides for popular LeetCode questions spanning a variety of topics form arrays to linked lists
 
+**Fresh Prints** - Bloomington, IN
+<br>
+Campus Manager
+<br>
+_December 2018 - Present_
+-	Communicated directly with student organization executive board members to arrange the design, printing, payment and shipment of custom apparel and accessory orders for Little 500, Greek recruitment and other special events 
+-	Generated a list of over 50 potential student organization clients and sales of $200,000+ 
+
 **84.51°** - Cincinnati, OH
 <br>
 Data Science Intern
