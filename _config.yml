@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Hi, I'm Jason Wang
 description: I'm currently a senior at Indiana University majoring in finance and computer science
+github:
+  is_project_page: false
