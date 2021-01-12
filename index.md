@@ -5,8 +5,9 @@
 <a href="Resume - Jason Wang.pdf" download = "Resume of Jason Wang.pdf">
   Resume in PDF format
 </a>
-
-### Education & Honors
+<br>
+<br>
+## Education & Honors
 <br>
 **Indiana University, Luddy School of Informatics, Computing and Engineering** - Bloomington, IN
 <br>
@@ -34,12 +35,12 @@ _March 2020 - Present_
 _December 2018 - Present_
 - Faculty-selected to participate in programs designed to prepare students for highly analytical careers in finance 
 
-### Technical Skills
+## Technical Skills
 - **Relevant Coursework:** Software Systems, Introduction to Android Development, Data Structures, Algorithmic Design & Analysis, Introduction to Artificial Intelligence, Software Engineer Fundamentals, Principles of Machine Learning, Database Concepts
 - **Programming Languages:** Java, Python, SQL, Racket, HTML, CSS
 - **Other Technical Skills:** Eclipse, PyCharm, Git, Windows, Microsoft Office
 
-### Experience
+## Experience
 **The Raine Group** - New York, NY
 <br>
 Summer Analyst
@@ -67,7 +68,7 @@ _August 2019 - Present_
 -	Utilized SQL and R to cleanse and visualize Kroger’s database of transactions and customers
 -	Assisted the Communications and Media data science team with miscellaneous project work including cleansing data tables, producing visualizations to highlight key performance metrics, and providing insight on current trends
 
-### Projects
+## Projects
 <br>
 **Limit Heads-Up Texas Hold 'Em Bots** - Artificial Intelligence Final Project
 <br>
