@@ -1,10 +1,11 @@
-<img src = "Headshot.png">
+<img src = "Headshot.png" class= "center">
 # My Resume
 <a href="Resume - Jason Wang.pdf" download = "Resume of Jason Wang.pdf">
   Resume in PDF format
 </a>
 
 ## Education & Honors
+<img src = "luddy.jpg">
 **Indiana University, Luddy School of Informatics, Computing and Engineering** - Bloomington, IN
 <br>
 _Bachelor of Science in Computer Science_ 
