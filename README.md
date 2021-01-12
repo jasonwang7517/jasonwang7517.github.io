@@ -30,6 +30,11 @@ _March 2020 - Present_
 _December 2018 - Present_
 - Faculty-selected to participate in programs designed to prepare students for highly analytical careers in finance 
 
+## Technical Skills
+- **Relevant Coursework:** Software Systems, Introduction to Android Development, Data Structures, Algorithmic Design & Analysis, Introduction to Artificial Intelligence, Software Engineer Fundamentals, Principles of Machine Learning, Database Concepts
+- **Programming Languages:** Java, Python, SQL, Racket, HTML, CSS
+- **Other Technical Skills:** Eclipse, PyCharm, Git, Windows, Microsoft Office
+
 
 You can use the [editor on GitHub](https://github.com/jasonwang7517/jasonwang7517.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
