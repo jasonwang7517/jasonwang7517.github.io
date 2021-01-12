@@ -6,6 +6,8 @@
   <img src = "res/Headshot.png" class= "center">
 </center>
 
+# [Github Profile](https://github.com/jasonwang7517)
+
 # My Resume
 <a href = "Resume - Jason Wang.pdf" download = "Resume of Jason Wang.pdf">Resume in PDF format</a>
 <br>
