@@ -21,9 +21,13 @@ _Bachelor of Science in Business_
 <br>
 <br>
 **Board of Aeons** - Bloomington, IN
+<br>
+_March 2020 - Present_
 - One of twelve Indiana University students selected to serve as direct advisors to the President of the University on matters such as the costs of attendance, student safety initiatives, and diversity and inclusion
 
 **Investment Banking Workshop** - Bloomington, IN
+<br>
+_December 2018 - Present_
 - Faculty-selected to participate in programs designed to prepare students for highly analytical careers in finance 
 
 
