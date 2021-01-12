@@ -4,8 +4,26 @@
 </a>
 
 ## Education & Honors
-**Indiana University, School of Informatics, Computing and Engineering** - Bloomington, IN
-_Bachelor of Science in Computer Science_ | **Major**: Computer Science | **Specialization**: Data Science
+**Indiana University, Luddy School of Informatics, Computing and Engineering** - Bloomington, IN
+<br>
+_Bachelor of Science in Computer Science_ 
+<br>
+**Major**: Computer Science | **Specialization**: Data Science
+<br>
+**GPA**: 3.71/4.00
+<br>
+**Indiana University, Kelley School of Business** - Bloomington, IN
+<br>
+_Bachelor of Science in Business_ 
+<br>
+**Major**: Finance | **Specialization**: Data Science
+<br>
+**Board of Aeons** - Bloomington, IN
+- One of twelve Indiana University students selected to serve as direct advisors to the President of the University on matters such as the costs of attendance, student safety initiatives, and diversity and inclusion
+<br>
+**Investment Banking Workshop** - Bloomington, IN
+- Faculty-selected to participate in programs designed to prepare students for highly analytical careers in finance 
+
 
 You can use the [editor on GitHub](https://github.com/jasonwang7517/jasonwang7517.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
