@@ -1,4 +1,4 @@
-## Hi, my name is Jason Wang
+## [Resume in PDF format]
 
 You can use the [editor on GitHub](https://github.com/jasonwang7517/jasonwang7517.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
