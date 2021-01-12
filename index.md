@@ -5,7 +5,6 @@
 </a>
 
 ### Education & Honors
-<img src = "res/luddy.jpg" width = "400">
 <br>
 **Indiana University, Luddy School of Informatics, Computing and Engineering** - Bloomington, IN
 <br>
@@ -39,7 +38,6 @@ _December 2018 - Present_
 - **Other Technical Skills:** Eclipse, PyCharm, Git, Windows, Microsoft Office
 
 ### Experience
-<img src = "res/raine.png">
 **The Raine Group** - New York, NY
 <br>
 Summer Analyst
