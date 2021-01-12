@@ -5,7 +5,7 @@
 </a>
 
 ## Education & Honors
-<img src = "luddy.jpg">
+<img src = "luddy.jpg" height = "100">
 **Indiana University, Luddy School of Informatics, Computing and Engineering** - Bloomington, IN
 <br>
 _Bachelor of Science in Computer Science_ 
