@@ -21,7 +21,7 @@ _Bachelor of Science in Business_
 <br>
 <br>
 **Board of Aeons** - Bloomington, IN
-<li>One of twelve Indiana University students selected to serve as direct advisors to the President of the University on matters such as the costs of attendance, student safety initiatives, and diversity and inclusion 
+- One of twelve Indiana University students selected to serve as direct advisors to the President of the University on matters such as the costs of attendance, student safety initiatives, and diversity and inclusion 
 <br>
 <br>
 **Investment Banking Workshop** - Bloomington, IN
