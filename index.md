@@ -1,3 +1,7 @@
+<head> 
+  <link href="https://assets.iu.edu/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+</head>
+
 <center>
   <img src = "res/Headshot.png" class= "center">
 </center>
